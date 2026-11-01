@@ -1,1 +1,0 @@
-Covers for Nuvio collections.
